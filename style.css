@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-image: url("itemstuffpro.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.intro{
+    background-color: lightseagreen;
+    margin-top: -20px;
+}
+.buttons{
+    display: inline-block;
+    background: mediumslateblue;
+    color: whitesmoke;
+    font-size: 20px;
+    width: 300px;
+    border-radius: 50%;
+    
+}
